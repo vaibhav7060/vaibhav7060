@@ -1,19 +1,4 @@
-# Todo list App
+# 👋 Vaibhav Shrivastava
 
-Its a Simple Todo list management app based on MERN Stack .
-
-
-## Author
-
-- [@Vaibhav](https://www.github.com/vaibhav7060)
-
-
-## Installation
-
-Run my-project with npm & nodemon
-
-```bash
-  npm install
-  nodemon app.js
-```
-    
+I'm an indie full-stack developer and also a freelancer .
+All coding projects are built from Ground up, from planning and designing to all the way to solving real life problems with code 
